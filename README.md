@@ -1,4 +1,5 @@
-## Hello, I'm Rakhi
+## Hello, I'm Rakhi!
+🎓 B.E. CSE Student 
 
 <!--
 **rakhi-3008/rakhi-3008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
