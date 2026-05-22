@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rakhi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-📍 **Chandigarh**   ·   📧 rakhipanwar819@gmail.com
-
 ## 🙋 About Me
 
 - 😄 **Pronouns:** She/Her
